@@ -4094,10 +4094,10 @@ input[type="submit"].btn-block {
   padding: 1rem 1rem;
 }
 .card-block:first-child, .card-img-top + .card-block {
-  padding-top: 1.5rem;
+  padding-top: 1.0rem;
 }
 .card-block:last-child {
-  padding-bottom: 1.5rem;
+  padding-bottom: 1.0rem;
 }
 
 .card-footer {
@@ -7385,7 +7385,7 @@ a.chip-warning:hover {
   opacity: 1;
 }
 .form-control:focus, .custom-select:focus {
-  border-bottom-color: #9c27b0;
+  border-bottom-color: blue;
   border-bottom-width: 2px;
   outline: 0;
 }
